@@ -1,0 +1,70 @@
+{
+  "title": "Glenlea Tennis Club",
+  "slug": "/admin/site-content/committee",
+  "index": {
+    "title": "Index Page",
+    "content": "<p>Some <strong>index</strong> content...</p>"
+  },
+  "pages": [
+    {
+      "title": "Contacts",
+      "path": "/contacts",
+      "content": {
+        "committee": [
+          {
+          "id": 1,
+          "title":"President",
+          "name": "Kym Beard",
+          "phone": "0438 856 885",
+          "email": "presidentglenlea@gmail.com"
+        },
+        {
+          "id": 2,
+          "title":"Vice President",
+          "name": "Tyson Grinham",
+          "phone": "",
+          "email": "presidentglenlea@gmail.com"
+        },
+        {
+          "id": 3,
+          "title":"Club Captain",
+          "name": "Tom Collins",
+          "phone": "0468 785 708",
+          "email": "seniorsglenlea@gmail.com"
+        },
+        {
+          "id": 4,
+          "title":"Secretary",
+          "name": "Jane Downs",
+          "phone": "0412 188 205",
+          "email": "tennisglenlea@gmail.com"
+        },
+        {
+          "id": 5,
+          "title":"Treasurer",
+          "name": "David McCouaig",
+          "phone": "0402 196 755",
+          "email": "treasurerglenlea@gmail.com"
+        },
+        {
+          "id": 6,
+          "title":"Junior Coordinator",
+          "name": "Olivia Ley",
+          "phone": "8376 0016",
+          "email": "juniorsglenlea@gmail.com"
+        }
+      ]
+      }
+    },
+    {
+      "title": "Bar Page",
+      "path": "/bar",
+      "content": "<p><strong>Bar</strong> content...</p>"
+    },
+    {
+      "title": "Baz Page",
+      "path": "/baz",
+      "content": "<p><strong>Baz</strong> content...</p>"
+    }
+  ]
+}
